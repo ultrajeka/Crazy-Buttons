@@ -1,0 +1,9 @@
+D:\CProjects\Crazy Buttons\Crazy Buttons\bin\Release\Crazy Buttons.exe.config
+D:\CProjects\Crazy Buttons\Crazy Buttons\bin\Release\Crazy Buttons.exe
+D:\CProjects\Crazy Buttons\Crazy Buttons\bin\Release\Crazy Buttons.pdb
+D:\CProjects\Crazy Buttons\Crazy Buttons\obj\Release\Crazy_Buttons.Form1.resources
+D:\CProjects\Crazy Buttons\Crazy Buttons\obj\Release\Crazy_Buttons.Properties.Resources.resources
+D:\CProjects\Crazy Buttons\Crazy Buttons\obj\Release\Crazy Buttons.csproj.GenerateResource.Cache
+D:\CProjects\Crazy Buttons\Crazy Buttons\obj\Release\Crazy Buttons.exe
+D:\CProjects\Crazy Buttons\Crazy Buttons\obj\Release\Crazy Buttons.pdb
+D:\CProjects\Crazy Buttons\Crazy Buttons\obj\Release\Crazy Buttons.csprojResolveAssemblyReference.cache
